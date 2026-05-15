@@ -1,0 +1,63 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zoh profile banner</title>
+  <desc id="desc">A dark modern banner with abstract interface panels, 3D shapes, and profile text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.42" stop-color="#12343B"/>
+      <stop offset="1" stop-color="#2A1458"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="84" y1="66" x2="1106" y2="362" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A3E635"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="706" y1="70" x2="1098" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <path d="M0 344C173 270 283 383 473 304C646 232 703 78 904 108C1072 133 1147 251 1280 196V420H0V344Z" fill="#06151A" opacity="0.42"/>
+  <path d="M68 73H1212" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <path d="M68 146H1212" stroke="#FFFFFF" stroke-opacity="0.07"/>
+  <path d="M68 219H1212" stroke="#FFFFFF" stroke-opacity="0.07"/>
+  <path d="M68 292H1212" stroke="#FFFFFF" stroke-opacity="0.07"/>
+  <path d="M165 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M330 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M495 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M660 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M825 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M990 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M1155 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="706" y="72" width="398" height="248" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="736" y="106" width="154" height="18" rx="9" fill="#22D3EE" fill-opacity="0.72"/>
+    <rect x="736" y="144" width="286" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.24"/>
+    <rect x="736" y="173" width="226" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.15"/>
+    <rect x="736" y="222" width="86" height="56" rx="14" fill="#22D3EE" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.4"/>
+    <rect x="842" y="222" width="86" height="56" rx="14" fill="#A3E635" fill-opacity="0.16" stroke="#A3E635" stroke-opacity="0.38"/>
+    <rect x="948" y="222" width="86" height="56" rx="14" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.38"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <path d="M1050 107L1134 153V249L1050 295L966 249V153L1050 107Z" fill="#0F172A" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M1050 107V201M966 153L1050 201L1134 153M1050 201V295" stroke="#FFFFFF" stroke-opacity="0.34" stroke-width="3"/>
+    <circle cx="1050" cy="201" r="18" fill="#22D3EE"/>
+  </g>
+
+  <text x="80" y="145" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="0">Zoh</text>
+  <text x="82" y="196" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="650" letter-spacing="0">Web experiences | Brand systems | 3D workflows</text>
+  <text x="84" y="252" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">React, Vite, Playwright, Cloudflare Pages, WordPress audits, Cinema 4D, Redshift</text>
+  <rect x="82" y="292" width="174" height="42" rx="21" fill="#22D3EE" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.45"/>
+  <text x="111" y="320" fill="#ECFEFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Build</text>
+  <rect x="270" y="292" width="174" height="42" rx="21" fill="#A3E635" fill-opacity="0.16" stroke="#A3E635" stroke-opacity="0.42"/>
+  <text x="303" y="320" fill="#F7FEE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Audit</text>
+  <rect x="458" y="292" width="174" height="42" rx="21" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.42"/>
+  <text x="493" y="320" fill="#FFFBEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Design</text>
+</svg>
