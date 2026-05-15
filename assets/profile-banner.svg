@@ -1,5 +1,5 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Zoh profile banner</title>
+  <title id="title">Syed profile banner</title>
   <desc id="desc">A dark modern banner with abstract interface panels, monitoring shapes, and profile text.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
@@ -54,7 +54,7 @@
     <rect x="1016" y="236" width="68" height="14" rx="7" fill="#F59E0B" fill-opacity="0.95"/>
   </g>
 
-  <text x="80" y="145" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="0">Zoh</text>
+  <text x="80" y="145" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="0">Syed</text>
   <text x="82" y="196" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="650" letter-spacing="0">Web experiences | DevOps home lab | 3D workflows</text>
   <text x="84" y="252" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">React, Vite, Docker, Portainer, Grafana, Node Exporter, Raspberry Pi, Cinema 4D</text>
   <rect x="82" y="292" width="174" height="42" rx="21" fill="#22D3EE" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.45"/>
