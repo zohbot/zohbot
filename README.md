@@ -49,7 +49,7 @@ Repo: [zohbot/web-resume](https://github.com/zohbot/web-resume)
 
 ## Tools I Use
 
-React · Vite · JavaScript · HTML · CSS · Playwright · GitHub Pages · Cloudflare Pages · WordPress · Cinema 4D · Redshift
+React | Vite | JavaScript | HTML | CSS | Playwright | GitHub Pages | Cloudflare Pages | WordPress | Cinema 4D | Redshift
 
 ## What I Like Building
 
