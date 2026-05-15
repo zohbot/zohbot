@@ -1,6 +1,6 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Zoh profile banner</title>
-  <desc id="desc">A dark modern banner with abstract interface panels, 3D shapes, and profile text.</desc>
+  <desc id="desc">A dark modern banner with abstract interface panels, monitoring shapes, and profile text.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111827"/>
@@ -40,24 +40,27 @@
     <rect x="736" y="106" width="154" height="18" rx="9" fill="#22D3EE" fill-opacity="0.72"/>
     <rect x="736" y="144" width="286" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.24"/>
     <rect x="736" y="173" width="226" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.15"/>
-    <rect x="736" y="222" width="86" height="56" rx="14" fill="#22D3EE" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.4"/>
-    <rect x="842" y="222" width="86" height="56" rx="14" fill="#A3E635" fill-opacity="0.16" stroke="#A3E635" stroke-opacity="0.38"/>
-    <rect x="948" y="222" width="86" height="56" rx="14" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.38"/>
+    <path d="M746 262L786 230L828 248L870 206L912 220L974 168" stroke="#A3E635" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="786" cy="230" r="7" fill="#A3E635"/>
+    <circle cx="870" cy="206" r="7" fill="#A3E635"/>
+    <circle cx="974" cy="168" r="7" fill="#A3E635"/>
+    <rect x="736" y="284" width="300" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.16"/>
   </g>
 
   <g filter="url(#softShadow)">
     <path d="M1050 107L1134 153V249L1050 295L966 249V153L1050 107Z" fill="#0F172A" stroke="url(#accent)" stroke-width="3"/>
     <path d="M1050 107V201M966 153L1050 201L1134 153M1050 201V295" stroke="#FFFFFF" stroke-opacity="0.34" stroke-width="3"/>
     <circle cx="1050" cy="201" r="18" fill="#22D3EE"/>
+    <rect x="1016" y="236" width="68" height="14" rx="7" fill="#F59E0B" fill-opacity="0.95"/>
   </g>
 
   <text x="80" y="145" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="0">Zoh</text>
-  <text x="82" y="196" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="650" letter-spacing="0">Web experiences | Brand systems | 3D workflows</text>
-  <text x="84" y="252" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">React, Vite, Playwright, Cloudflare Pages, WordPress audits, Cinema 4D, Redshift</text>
+  <text x="82" y="196" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="650" letter-spacing="0">Web experiences | DevOps home lab | 3D workflows</text>
+  <text x="84" y="252" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">React, Vite, Docker, Portainer, Grafana, Node Exporter, Raspberry Pi, Cinema 4D</text>
   <rect x="82" y="292" width="174" height="42" rx="21" fill="#22D3EE" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.45"/>
   <text x="111" y="320" fill="#ECFEFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Build</text>
   <rect x="270" y="292" width="174" height="42" rx="21" fill="#A3E635" fill-opacity="0.16" stroke="#A3E635" stroke-opacity="0.42"/>
-  <text x="303" y="320" fill="#F7FEE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Audit</text>
+  <text x="303" y="320" fill="#F7FEE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Monitor</text>
   <rect x="458" y="292" width="174" height="42" rx="21" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.42"/>
-  <text x="493" y="320" fill="#FFFBEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Design</text>
+  <text x="493" y="320" fill="#FFFBEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Ship</text>
 </svg>
