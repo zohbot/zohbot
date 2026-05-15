@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Zoh profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Syed profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <img alt="3D" src="https://img.shields.io/badge/3D-Cinema%204D%20%7C%20Redshift-8B5CF6?style=for-the-badge" />
 </p>
 
-# Hi, I'm Zoh
+# Hi, I'm Syed
 
 I build practical web experiences, brand systems, small business tooling, and hands-on home lab infrastructure with a focus on clean interfaces, responsive layouts, observability, and deployment-ready details.
 
@@ -117,8 +117,8 @@ Right now I am working across front-end development, business website builds, vi
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zohbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Zoh GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohbot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Zoh top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zohbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Syed GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohbot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Syed top languages" />
 </p>
 
 ## Skills
