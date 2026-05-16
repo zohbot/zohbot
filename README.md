@@ -89,31 +89,52 @@ Right now I am working across front-end development, business website builds, vi
   </tr>
 </table>
 
-## Featured Projects
+## Website Builds and Product Concepts
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="./assets/projects/zed-solutions-llc.png" alt="Zed Solutions LLC website preview" width="100%" />
       <h3>Zed Solutions LLC</h3>
       <p>A business splash page and brand workspace for a parent company focused on ecommerce, fulfillment support, photography services, IT services, and practical business infrastructure.</p>
-      <p><strong>Tech and workflow:</strong> React, Vite, custom CSS animation, Cloudflare Pages, Playwright visual checks, brand asset organization, responsive layout design.</p>
+      <p><strong>Stack:</strong> React, Vite, custom CSS animation, Cloudflare Pages direction, responsive visual QA.</p>
     </td>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/lahori-tech-modern.png" alt="Lahori Tech modern website preview" width="100%" />
+      <h3>Lahori Tech Modern</h3>
+      <p>A polished business website concept with service pages, light/dark theming, generated service visuals, direct contact paths, and owner-led positioning.</p>
+      <p><strong>Stack:</strong> static JavaScript modules, responsive CSS, self-hosted assets, Playwright smoke checks.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/technoseller-portal.png" alt="TECHNOseller Portal marketplace preview" width="100%" />
+      <h3>TECHNOseller Portal</h3>
+      <p>A marketplace and vendor-directory SaaS concept with synthetic listings, searchable service data, vendor profiles, buyer lead capture, and moderation workflows.</p>
+      <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix primitives, Node HTTP API, structured marketplace data.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/zohbot-web-resume.png" alt="Zohbot web resume preview" width="100%" />
+      <h3>Zohbot Web Resume</h3>
+      <p>A clean-room web resume for zohbot.net with a modern React interface, print-friendly resume view, project sections, and contact routes.</p>
+      <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix-style components, GitHub Pages publishing direction.</p>
+    </td>
+  </tr>
+</table>
+
+## Other Technical Work
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3>Proweaver Website Technology Audit</h3>
       <p>A detailed technology and animation audit of a live WordPress marketing site, covering front-end libraries, animation systems, analytics/tracking scripts, accessibility tools, forms, hosting signals, and visible UX behavior.</p>
       <p><strong>Focus areas:</strong> WordPress, jQuery, animation libraries, tracking pixels, Cloudflare behavior, UI/UX analysis, technical documentation.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Cinema 4D / Redshift Material Workflows</h3>
       <p>A starter material library and scene workflow using CC0 PBR texture sets for Redshift and Cinema 4D experiments.</p>
       <p><strong>Focus areas:</strong> PBR map wiring, material setup, 3D scene composition, chrome/neon styling, dynamic text, and render-ready asset organization.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Web Resume</h3>
-      <p>A GitHub Pages resume project based on a Jekyll template.</p>
-      <p><a href="https://github.com/zohbot/web-resume">View repository</a></p>
     </td>
   </tr>
 </table>
