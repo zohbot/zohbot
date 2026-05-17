@@ -145,14 +145,22 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
   </tr>
 </table>
 
-## Public Work
+## Public Website Repositories
+
+Public repos with buyer-facing README notes, screenshots where useful, and SYHTEK inquiry/credit positioning.
 
 <p align="center">
   <a href="https://github.com/zohbot/Cloud-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=Cloud-Website&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Cloud-Website repository card" />
   </a>
-  <a href="https://github.com/zohbot/web-resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=web-resume&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="web-resume repository card" />
+  <a href="https://github.com/zohbot/technoseller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=technoseller&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TECHNOseller repository card" />
+  </a>
+  <a href="https://github.com/zohbot/webresume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=webresume&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="webresume repository card" />
+  </a>
+  <a href="https://github.com/zohbot/Aliz-Studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=Aliz-Studio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aliz Studio repository card" />
   </a>
 </p>
 
@@ -186,4 +194,4 @@ I like projects that turn rough ideas into something structured and usable: a br
 ## Links
 
 - GitHub: [zohbot](https://github.com/zohbot)
-- Public repos: [Cloud-Website](https://github.com/zohbot/Cloud-Website), [web-resume](https://github.com/zohbot/web-resume)
+- Public repos: [Cloud-Website](https://github.com/zohbot/Cloud-Website), [technoseller](https://github.com/zohbot/technoseller), [webresume](https://github.com/zohbot/webresume), [Aliz-Studio](https://github.com/zohbot/Aliz-Studio)
