@@ -1,66 +1,152 @@
-<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Syed profile banner</title>
-  <desc id="desc">A dark modern banner with abstract interface panels, monitoring shapes, and profile text.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="2172" height="724" viewBox="0 0 2172 724" role="img" aria-labelledby="title desc">
+  <title id="title">Syed / zohbot GitHub profile banner</title>
+  <desc id="desc">Dark cyberpunk developer banner for Syed / zohbot with neon Z mark, project text, tech stack, and infrastructure status panel.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111827"/>
-      <stop offset="0.42" stop-color="#12343B"/>
-      <stop offset="1" stop-color="#2A1458"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020407"/>
+      <stop offset="0.45" stop-color="#04070c"/>
+      <stop offset="1" stop-color="#070a12"/>
     </linearGradient>
-    <linearGradient id="accent" x1="84" y1="66" x2="1106" y2="362" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE"/>
-      <stop offset="0.5" stop-color="#A3E635"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+    <linearGradient id="cyanText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#eaffff"/>
+      <stop offset="0.45" stop-color="#b9f8ff"/>
+      <stop offset="1" stop-color="#21dcec"/>
     </linearGradient>
-    <linearGradient id="panel" x1="706" y1="70" x2="1098" y2="342" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    <linearGradient id="redLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2c3d"/>
+      <stop offset="1" stop-color="#ff6a45"/>
     </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000000" flood-opacity="0.35"/>
+    <filter id="softCyan" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <filter id="softRed" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#14313a" stroke-width="1" opacity="0.18"/>
+    </pattern>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#00e5ff" opacity="0.16"/>
+    </pattern>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;letter-spacing:.02em}
+      .sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+      .small{font-size:24px}.med{font-size:34px}.body{font-size:31px}.label{font-size:26px}.tiny{font-size:18px}
+    </style>
   </defs>
 
-  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
-  <path d="M0 344C173 270 283 383 473 304C646 232 703 78 904 108C1072 133 1147 251 1280 196V420H0V344Z" fill="#06151A" opacity="0.42"/>
-  <path d="M68 73H1212" stroke="#FFFFFF" stroke-opacity="0.09"/>
-  <path d="M68 146H1212" stroke="#FFFFFF" stroke-opacity="0.07"/>
-  <path d="M68 219H1212" stroke="#FFFFFF" stroke-opacity="0.07"/>
-  <path d="M68 292H1212" stroke="#FFFFFF" stroke-opacity="0.07"/>
-  <path d="M165 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
-  <path d="M330 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
-  <path d="M495 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
-  <path d="M660 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
-  <path d="M825 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
-  <path d="M990 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
-  <path d="M1155 38V382" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <rect width="2172" height="724" fill="url(#bg)"/>
+  <rect width="2172" height="724" fill="url(#grid)" opacity="0.52"/>
+  <rect width="2172" height="724" fill="url(#dots)" opacity="0.45"/>
 
-  <g filter="url(#softShadow)">
-    <rect x="706" y="72" width="398" height="248" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.16"/>
-    <rect x="736" y="106" width="154" height="18" rx="9" fill="#22D3EE" fill-opacity="0.72"/>
-    <rect x="736" y="144" width="286" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.24"/>
-    <rect x="736" y="173" width="226" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.15"/>
-    <path d="M746 262L786 230L828 248L870 206L912 220L974 168" stroke="#A3E635" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="786" cy="230" r="7" fill="#A3E635"/>
-    <circle cx="870" cy="206" r="7" fill="#A3E635"/>
-    <circle cx="974" cy="168" r="7" fill="#A3E635"/>
-    <rect x="736" y="284" width="300" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.16"/>
+  <!-- dark vignette -->
+  <rect width="2172" height="724" fill="#000" opacity="0.16"/>
+  <ellipse cx="1530" cy="340" rx="700" ry="360" fill="#061017" opacity="0.34"/>
+
+  <!-- angular border -->
+  <path d="M34 22H2130L2160 52V672L2130 702H42L14 674V46Z" fill="none" stroke="#0ed8e6" stroke-width="2" opacity="0.75"/>
+  <path d="M2086 22H2130L2160 52V170M2160 584V672L2130 702H2070" fill="none" stroke="#ff2a3a" stroke-width="3" opacity="0.9"/>
+  <path d="M34 22H92M14 46V111M14 145V132M14 610V674L42 702H94" fill="none" stroke="#12e1ef" stroke-width="3" opacity="0.8"/>
+  <path d="M78 130h44M48 130h12M14 132v6" stroke="#ff2735" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <path d="M1735 699h92" stroke="#ff2838" stroke-width="5" opacity="0.95"/>
+
+  <!-- terminal prompt -->
+  <text x="76" y="82" class="mono small" fill="#ff3546">syed</text>
+  <text x="144" y="82" class="mono small" fill="#eaf7fa">@zohbot:~$</text>
+  <text x="308" y="82" class="mono small" fill="#12e8f6"> ship</text>
+
+  <!-- main wordmark -->
+  <text x="114" y="284" class="sans" font-size="132" font-weight="900" fill="url(#cyanText)" filter="url(#softCyan)" letter-spacing="-6">Syed</text>
+  <text x="520" y="270" class="mono" font-size="76" fill="#ff2d3e" filter="url(#softRed)">/</text>
+  <text x="576" y="270" class="mono" font-size="72" fill="#24e6f3" filter="url(#softCyan)">zohbot</text>
+
+  <!-- intro copy -->
+  <line x1="116" y1="356" x2="116" y2="424" stroke="#ff2638" stroke-width="3"/>
+  <text x="140" y="383" class="mono body" fill="#edf6f7">Building polished websites, automation,</text>
+  <text x="140" y="426" class="mono body" fill="#edf6f7">home lab systems, and 3D workflows.</text>
+  <line x1="140" y1="457" x2="194" y2="457" stroke="#ff2b3d" stroke-width="3"/>
+
+  <!-- stack text -->
+  <text x="140" y="510" class="mono med" fill="#15e7f4">React</text>
+  <text x="244" y="510" class="mono med" fill="#ff303c">•</text>
+  <text x="278" y="510" class="mono med" fill="#15e7f4">Vite</text>
+  <text x="360" y="510" class="mono med" fill="#ff303c">•</text>
+  <text x="394" y="510" class="mono med" fill="#15e7f4">Docker</text>
+  <text x="523" y="510" class="mono med" fill="#ff303c">•</text>
+  <text x="557" y="510" class="mono med" fill="#15e7f4">Grafana</text>
+  <text x="709" y="510" class="mono med" fill="#ff303c">•</text>
+  <text x="744" y="510" class="mono med" fill="#15e7f4">Tailscale</text>
+  <text x="881" y="510" class="mono med" fill="#ff303c">•</text>
+  <text x="140" y="553" class="mono med" fill="#15e7f4">Raspberry Pi</text>
+  <text x="358" y="553" class="mono med" fill="#ff303c">•</text>
+  <text x="394" y="553" class="mono med" fill="#15e7f4">Cinema 4D</text>
+
+  <text x="126" y="636" class="mono med" fill="#18e9f7">ship:</text>
+  <text x="226" y="636" class="mono med" fill="#ff3342">ready</text>
+  <text x="330" y="636" class="mono med" fill="#18e9f7">_</text>
+
+  <!-- large neon Z -->
+  <g transform="translate(1015 48)" filter="url(#softRed)">
+    <path d="M210 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="none" stroke="#ff2938" stroke-width="6" stroke-linejoin="miter"/>
+    <path d="M212 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="none" stroke="#ff775a" stroke-width="1.5" opacity="0.9"/>
+  </g>
+  <g transform="translate(1076 114)" opacity="0.88">
+    <path d="M140 0H468L553 82H323M285 129H520M248 177H465M206 221H422M176 268H358M145 312H326M96 360H298M54 407H338" fill="none" stroke="#0ce7f5" stroke-width="2" opacity="0.65"/>
+    <path d="M70 450H420M190 476H308" stroke="#17e5f2" stroke-width="4" opacity="0.8"/>
+    <path d="M225 70h66M320 34h124M505 118h35M355 303h72M198 398h98" stroke="#ff2a39" stroke-width="4" opacity="0.8"/>
+    <circle cx="120" cy="85" r="5" fill="#00e6f3"/><circle cx="188" cy="62" r="5" fill="#ff2639"/>
+    <circle cx="328" cy="270" r="4" fill="#00e6f3"/><circle cx="426" cy="326" r="5" fill="#ff2639"/>
+    <circle cx="246" cy="450" r="4" fill="#00e6f3"/><circle cx="400" cy="472" r="5" fill="#ff2639"/>
+    <path d="M130 40l24 14v28l-24 14-24-14V54z" fill="none" stroke="#14e4f1" stroke-width="2"/>
+    <path d="M198 38l24 14v28l-24 14-24-14V52z" fill="none" stroke="#ff2938" stroke-width="2"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <path d="M1050 107L1134 153V249L1050 295L966 249V153L1050 107Z" fill="#0F172A" stroke="url(#accent)" stroke-width="3"/>
-    <path d="M1050 107V201M966 153L1050 201L1134 153M1050 201V295" stroke="#FFFFFF" stroke-opacity="0.34" stroke-width="3"/>
-    <circle cx="1050" cy="201" r="18" fill="#22D3EE"/>
-    <rect x="1016" y="236" width="68" height="14" rx="7" fill="#F59E0B" fill-opacity="0.95"/>
-  </g>
+  <!-- right system panel -->
+  <g transform="translate(1706 84)">
+    <path d="M18 0H402L430 28V536L404 562H0V18Z" fill="#02090d" stroke="#11ddea" stroke-width="2" opacity="0.96"/>
+    <circle cx="376" cy="30" r="6" fill="#ff2b39"/><circle cx="394" cy="30" r="6" fill="#ff2b39" opacity="0.72"/>
+    <text x="34" y="42" class="mono label" fill="#ff3443">//</text>
+    <text x="70" y="42" class="mono label" fill="#18e9f7">project status</text>
+    <line x1="34" y1="64" x2="402" y2="64" stroke="#0edbe8" stroke-width="1" opacity="0.55"/>
 
-  <text x="80" y="145" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="0">Syed</text>
-  <text x="82" y="196" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="650" letter-spacing="0">Web experiences | DevOps home lab | 3D workflows</text>
-  <text x="84" y="252" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">React, Vite, Docker, Grafana, Tailscale, NextDNS, Raspberry Pi, Cinema 4D</text>
-  <rect x="82" y="292" width="174" height="42" rx="21" fill="#22D3EE" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.45"/>
-  <text x="111" y="320" fill="#ECFEFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Build</text>
-  <rect x="270" y="292" width="174" height="42" rx="21" fill="#A3E635" fill-opacity="0.16" stroke="#A3E635" stroke-opacity="0.42"/>
-  <text x="303" y="320" fill="#F7FEE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Monitor</text>
-  <rect x="458" y="292" width="174" height="42" rx="21" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.42"/>
-  <text x="493" y="320" fill="#FFFBEB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Ship</text>
+    <!-- icons + status lines -->
+    <g fill="none" stroke="#18e9f7" stroke-width="2" opacity="0.9">
+      <rect x="38" y="96" width="20" height="20" rx="2"/><path d="M32 106h10M54 106h10M48 90v10M48 116v10"/>
+      <rect x="36" y="142" width="24" height="18" rx="2"/><path d="M41 147h4M49 147h4M41 154h14"/>
+      <circle cx="48" cy="204" r="11"/><path d="M37 204h22M48 193c7 7 7 15 0 22M48 193c-7 7-7 15 0 22"/>
+      <circle cx="48" cy="248" r="11"/><path d="M48 240v10l7 4"/>
+    </g>
+    <text x="76" y="111" class="mono small" fill="#16e9f7">web builds</text>
+    <text x="76" y="135" class="mono small" fill="#16e9f7">shipping</text>
+    <text x="76" y="169" class="mono small" fill="#16e9f7">private lab</text>
+    <text x="76" y="193" class="mono small" fill="#16e9f7">secure</text>
+    <text x="76" y="225" class="mono small" fill="#16e9f7">monitoring: on</text>
+    <text x="76" y="268" class="mono small" fill="#16e9f7">portfolio:</text>
+    <text x="76" y="294" class="mono small" fill="#16e9f7">updated</text>
+
+    <!-- radar -->
+    <g transform="translate(304 176)" opacity="0.85">
+      <circle r="84" fill="none" stroke="#0fddeb" stroke-width="1" opacity="0.38"/>
+      <circle r="67" fill="none" stroke="#0fddeb" stroke-width="1" stroke-dasharray="5 7" opacity="0.55"/>
+      <circle r="50" fill="none" stroke="#ff2b38" stroke-width="1" stroke-dasharray="10 8" opacity="0.7"/>
+      <circle r="34" fill="none" stroke="#0fddeb" stroke-width="1"/>
+      <path d="M0-34 30-17 30 17 0 34-30 17-30-17Z" fill="none" stroke="#15e9f7" stroke-width="2"/>
+      <path d="M0-34V34M-30-17l60 34M30-17l-60 34" stroke="#15e9f7" stroke-width="1"/>
+    </g>
+
+    <line x1="34" y1="334" x2="402" y2="334" stroke="#0edbe8" stroke-width="1" opacity="0.55"/>
+    <text x="34" y="371" class="mono label" fill="#18e9f7">build profile</text>
+    <line x1="34" y1="389" x2="402" y2="389" stroke="#0edbe8" stroke-width="1" opacity="0.28"/>
+    <text x="34" y="426" class="mono small" fill="#18e9f7">ui</text>
+    <rect x="132" y="411" width="196" height="11" rx="2" fill="#0b2428"/><rect x="132" y="411" width="38" height="11" rx="2" fill="#ff2b38"/>
+    <text x="360" y="426" class="mono small" fill="#18e9f7">18%</text>
+    <text x="34" y="470" class="mono small" fill="#18e9f7">ops</text>
+    <rect x="132" y="455" width="196" height="11" rx="2" fill="#0b2428"/><rect x="132" y="455" width="62" height="11" rx="2" fill="#16e9f7"/><rect x="194" y="455" width="11" height="11" fill="#ff2b38"/>
+    <text x="360" y="470" class="mono small" fill="#18e9f7">34%</text>
+    <text x="34" y="514" class="mono small" fill="#18e9f7">visual</text>
+    <rect x="132" y="499" width="196" height="11" rx="2" fill="#0b2428"/><rect x="132" y="499" width="124" height="11" rx="2" fill="#16e9f7"/>
+    <text x="360" y="514" class="mono small" fill="#18e9f7">62%</text>
+  </g>
 </svg>
