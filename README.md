@@ -16,6 +16,8 @@ I build practical web experiences, brand systems, small business tooling, and ha
 
 Right now I am working across front-end development, business website builds, visual QA, DevOps/home lab operations, brand identity systems, and 3D/Cinema 4D material workflows.
 
+For website, template, automation, and customer project inquiries, visit [SYHTEK](https://syhtek.com).
+
 ## Current Focus
 
 - Building polished landing pages and business websites with React, Vite, HTML, CSS, and static deployment workflows
@@ -98,12 +100,14 @@ Right now I am working across front-end development, business website builds, vi
       <h3>Zed Solutions LLC</h3>
       <p>A business splash page and brand workspace for a parent company focused on ecommerce, fulfillment support, photography services, IT services, and practical business infrastructure.</p>
       <p><strong>Stack:</strong> React, Vite, custom CSS animation, Cloudflare Pages direction, responsive visual QA.</p>
+      <p><strong>Credit:</strong> Website design and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/lahori-tech-modern.png" alt="Lahori Tech modern website preview" width="100%" />
       <h3>Lahori Tech Modern</h3>
       <p>A polished business website concept with service pages, light/dark theming, generated service visuals, direct contact paths, and owner-led positioning.</p>
       <p><strong>Stack:</strong> static JavaScript modules, responsive CSS, self-hosted assets, Playwright smoke checks.</p>
+      <p><strong>Credit:</strong> Site strategy, design, and development by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
   </tr>
   <tr>
@@ -112,12 +116,14 @@ Right now I am working across front-end development, business website builds, vi
       <h3>TECHNOseller Portal</h3>
       <p>A marketplace and vendor-directory SaaS concept with synthetic listings, searchable service data, vendor profiles, buyer lead capture, and moderation workflows.</p>
       <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix primitives, Node HTTP API, structured marketplace data.</p>
+      <p><strong>Credit:</strong> Product direction and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/zohbot-web-resume.png" alt="Zohbot web resume preview" width="100%" />
       <h3>Zohbot Web Resume</h3>
       <p>A clean-room web resume for zohbot.net with a modern React interface, print-friendly resume view, project sections, and contact routes.</p>
       <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix-style components, GitHub Pages publishing direction.</p>
+      <p><strong>Credit:</strong> Visual system and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
   </tr>
 </table>
