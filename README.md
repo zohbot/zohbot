@@ -126,6 +126,15 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
       <p><strong>Credit:</strong> Visual system and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="./assets/projects/aliz-studio.png" alt="Aliz Studio appointment booking website preview" width="100%" />
+      <h3>Aliz Studio</h3>
+      <p>An appointment-only barbershop website with premium visual direction, service packaging, a guided booking flow, and Square-ready deposit architecture.</p>
+      <p><strong>Stack:</strong> Next.js App Router, React, TypeScript, custom CSS tokens, Square-ready API routes, Playwright checks.</p>
+      <p><strong>Credit:</strong> Website design, booking UX, and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
+    </td>
+  </tr>
 </table>
 
 ## Other Technical Work
