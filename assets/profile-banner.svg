@@ -81,24 +81,24 @@
   <text x="358" y="553" class="mono med" fill="#ff303c">•</text>
   <text x="394" y="553" class="mono med" fill="#15e7f4">Cinema 4D</text>
 
-  <text x="126" y="636" class="mono med" fill="#18e9f7">ship:</text>
-  <text x="226" y="636" class="mono med" fill="#ff3342">ready</text>
-  <text x="330" y="636" class="mono med" fill="#18e9f7">_</text>
+  <text x="126" y="636" class="mono med" fill="#18e9f7">access:</text>
+  <text x="260" y="636" class="mono med" fill="#ff3342">granted</text>
+  <text x="386" y="636" class="mono med" fill="#18e9f7">_</text>
 
   <!-- large neon Z -->
-  <g transform="translate(965 42)" filter="url(#softRed)">
-    <path d="M210 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="rgba(255,42,58,0.035)" stroke="#ff2938" stroke-width="11" stroke-linejoin="miter"/>
-    <path d="M212 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="none" stroke="#ffb199" stroke-width="2.5" opacity="0.98"/>
+  <g transform="translate(1000 52)" filter="url(#softRed)">
+    <path d="M80 40H600L100 565H620" fill="none" stroke="#ff2938" stroke-width="78" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M80 40H600L100 565H620" fill="none" stroke="#ff7a62" stroke-width="20" stroke-linecap="square" stroke-linejoin="miter" opacity="0.92"/>
+    <path d="M80 40H600L100 565H620" fill="none" stroke="#fff0e6" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter" opacity="0.95"/>
+    <path d="M118 84H512M214 270H386M166 444H492" stroke="#0ce7f5" stroke-width="6" stroke-linecap="round" opacity="0.76"/>
+    <circle cx="294" cy="270" r="7" fill="#0ce7f5"/>
+    <circle cx="496" cy="420" r="7" fill="#ff2a39"/>
   </g>
-  <g transform="translate(1026 108)" opacity="0.9">
-    <path d="M140 0H468L553 82H323M285 129H520M248 177H465M206 221H422M176 268H358M145 312H326M96 360H298M54 407H338" fill="none" stroke="#0ce7f5" stroke-width="2" opacity="0.65"/>
-    <path d="M70 450H420M190 476H308" stroke="#17e5f2" stroke-width="4" opacity="0.8"/>
-    <path d="M225 70h66M320 34h124M505 118h35M355 303h72M198 398h98" stroke="#ff2a39" stroke-width="4" opacity="0.8"/>
-    <circle cx="120" cy="85" r="5" fill="#00e6f3"/><circle cx="188" cy="62" r="5" fill="#ff2639"/>
-    <circle cx="328" cy="270" r="4" fill="#00e6f3"/><circle cx="426" cy="326" r="5" fill="#ff2639"/>
-    <circle cx="246" cy="450" r="4" fill="#00e6f3"/><circle cx="400" cy="472" r="5" fill="#ff2639"/>
-    <path d="M130 40l24 14v28l-24 14-24-14V54z" fill="none" stroke="#14e4f1" stroke-width="2"/>
-    <path d="M198 38l24 14v28l-24 14-24-14V52z" fill="none" stroke="#ff2938" stroke-width="2"/>
+  <g transform="translate(1042 140)" opacity="0.9">
+    <path d="M96 0l24 14v28L96 56 72 42V14z" fill="none" stroke="#14e4f1" stroke-width="2"/>
+    <path d="M166 0l24 14v28l-24 14-24-14V14z" fill="none" stroke="#ff2938" stroke-width="2"/>
+    <path d="M250 56H420M220 120H360M198 184H438M160 248H330M128 312H392" stroke="#0ce7f5" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+    <path d="M312 20h94M380 92h72M292 214h70" stroke="#ff2a39" stroke-width="4" stroke-linecap="round" opacity="0.65"/>
   </g>
 
   <!-- right system panel -->
