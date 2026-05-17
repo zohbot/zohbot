@@ -149,20 +149,12 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
 
 Public repos with buyer-facing README notes, screenshots where useful, and SYHTEK inquiry/credit positioning.
 
-<p align="center">
-  <a href="https://github.com/zohbot/Cloud-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=Cloud-Website&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Cloud-Website repository card" />
-  </a>
-  <a href="https://github.com/zohbot/technoseller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=technoseller&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TECHNOseller repository card" />
-  </a>
-  <a href="https://github.com/zohbot/webresume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=webresume&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="webresume repository card" />
-  </a>
-  <a href="https://github.com/zohbot/Aliz-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zohbot&repo=Aliz-Studio&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aliz Studio repository card" />
-  </a>
-</p>
+| Repository | What It Shows | Tech |
+| --- | --- | --- |
+| [Cloud-Website](https://github.com/zohbot/Cloud-Website) | Static cloud-hosting website template | HTML, CSS, responsive static pages |
+| [technoseller](https://github.com/zohbot/technoseller) | Vendor marketplace and lead-routing concept | React, Vite, TypeScript, Tailwind CSS, Node API |
+| [webresume](https://github.com/zohbot/webresume) | Modern portfolio/resume website | React, Vite, Tailwind CSS, Radix-style components |
+| [Aliz-Studio](https://github.com/zohbot/Aliz-Studio) | Appointment-based barbershop website and booking flow | Next.js, React, TypeScript, Square-ready API routes |
 
 ## GitHub Snapshot
 
