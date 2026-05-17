@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2172" height="724" viewBox="0 0 2172 724" role="img" aria-labelledby="title desc">
-  <title id="title">Syed / zohbot GitHub profile banner</title>
-  <desc id="desc">Dark cyberpunk developer banner for Syed / zohbot with neon Z mark, project text, tech stack, and infrastructure status panel.</desc>
+  <title id="title">zohbot GitHub profile banner</title>
+  <desc id="desc">Dark cyberpunk developer banner for zohbot with a prominent neon Z mark, project text, tech stack, and infrastructure status panel.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#020407"/>
@@ -53,14 +53,12 @@
   <path d="M1735 699h92" stroke="#ff2838" stroke-width="5" opacity="0.95"/>
 
   <!-- terminal prompt -->
-  <text x="76" y="82" class="mono small" fill="#ff3546">syed</text>
-  <text x="144" y="82" class="mono small" fill="#eaf7fa">@zohbot:~$</text>
-  <text x="308" y="82" class="mono small" fill="#12e8f6"> ship</text>
+  <text x="76" y="82" class="mono small" fill="#ff3546">zohbot</text>
+  <text x="164" y="82" class="mono small" fill="#eaf7fa">@github:~$</text>
+  <text x="318" y="82" class="mono small" fill="#12e8f6"> ship</text>
 
   <!-- main wordmark -->
-  <text x="114" y="284" class="sans" font-size="132" font-weight="900" fill="url(#cyanText)" filter="url(#softCyan)" letter-spacing="-6">Syed</text>
-  <text x="520" y="270" class="mono" font-size="76" fill="#ff2d3e" filter="url(#softRed)">/</text>
-  <text x="576" y="270" class="mono" font-size="72" fill="#24e6f3" filter="url(#softCyan)">zohbot</text>
+  <text x="114" y="284" class="sans" font-size="132" font-weight="900" fill="url(#cyanText)" filter="url(#softCyan)" letter-spacing="-8">zohbot</text>
 
   <!-- intro copy -->
   <line x1="116" y1="356" x2="116" y2="424" stroke="#ff2638" stroke-width="3"/>
@@ -88,11 +86,11 @@
   <text x="330" y="636" class="mono med" fill="#18e9f7">_</text>
 
   <!-- large neon Z -->
-  <g transform="translate(1015 48)" filter="url(#softRed)">
-    <path d="M210 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="none" stroke="#ff2938" stroke-width="6" stroke-linejoin="miter"/>
-    <path d="M212 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="none" stroke="#ff775a" stroke-width="1.5" opacity="0.9"/>
+  <g transform="translate(965 42)" filter="url(#softRed)">
+    <path d="M210 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="rgba(255,42,58,0.035)" stroke="#ff2938" stroke-width="11" stroke-linejoin="miter"/>
+    <path d="M212 0H675L585 92H345L681 92L294 608H55L382 182H146Z" fill="none" stroke="#ffb199" stroke-width="2.5" opacity="0.98"/>
   </g>
-  <g transform="translate(1076 114)" opacity="0.88">
+  <g transform="translate(1026 108)" opacity="0.9">
     <path d="M140 0H468L553 82H323M285 129H520M248 177H465M206 221H422M176 268H358M145 312H326M96 360H298M54 407H338" fill="none" stroke="#0ce7f5" stroke-width="2" opacity="0.65"/>
     <path d="M70 450H420M190 476H308" stroke="#17e5f2" stroke-width="4" opacity="0.8"/>
     <path d="M225 70h66M320 34h124M505 118h35M355 303h72M198 398h98" stroke="#ff2a39" stroke-width="4" opacity="0.8"/>
