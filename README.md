@@ -28,7 +28,7 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
 
 ## Latest Project Updates
 
-- **Aliz Studio:** shipped as a Next.js appointment-booking website with service pages, a guided booking flow, Square-ready API routes, and SYHTEK design credit.
+- **Aliz Studio:** upgraded with mock Square-style checkout, paid appointment confirmation, owner auth hardening, security headers, API validation, and a fresh showcase capture.
 - **TECHNOseller Portal:** polished as a public vendor marketplace concept with searchable listings, buyer lead capture, moderation workflows, and passing Node API tests.
 - **Zohbot Web Resume:** updated with a hardened Vite build configuration, polished footer credit, and customer-facing README notes.
 - **Cloud Website:** refreshed as a buyer-ready static website template with clear tech notes, SYHTEK inquiry paths, and consistent footer credit.
@@ -138,8 +138,8 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
     <td colspan="2" valign="top">
       <img src="./assets/projects/aliz-studio.png" alt="Aliz Studio appointment booking website preview" width="100%" />
       <h3>Aliz Studio</h3>
-      <p>An appointment-only barbershop website with premium visual direction, service packaging, a guided booking flow, and Square-ready deposit architecture.</p>
-      <p><strong>Stack:</strong> Next.js App Router, React, TypeScript, custom CSS tokens, Square-ready API routes, Playwright checks.</p>
+      <p>An appointment-only barbershop website with premium visual direction, service packaging, a guided booking flow, mock deposit checkout, and owner dashboard operations.</p>
+      <p><strong>Stack:</strong> Next.js App Router, React, TypeScript, custom CSS tokens, Square-ready API routes, signed owner sessions, Playwright checks.</p>
       <p><strong>Credit:</strong> Website design, booking UX, and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
   </tr>
@@ -171,7 +171,7 @@ Public repos with buyer-facing README notes, screenshots where useful, and SYHTE
 | [Cloud-Website](https://github.com/zohbot/Cloud-Website) | Static cloud-hosting website template | HTML, CSS, responsive static pages |
 | [technoseller](https://github.com/zohbot/technoseller) | Vendor marketplace and lead-routing concept | React, Vite, TypeScript, Tailwind CSS, Node API |
 | [webresume](https://github.com/zohbot/webresume) | Modern portfolio/resume website | React, Vite, Tailwind CSS, Radix-style components |
-| [Aliz-Studio](https://github.com/zohbot/Aliz-Studio) | Appointment-based barbershop website and booking flow | Next.js, React, TypeScript, Square-ready API routes |
+| [Aliz-Studio](https://github.com/zohbot/Aliz-Studio) | Appointment-based barbershop website, mock checkout, and owner dashboard | Next.js, React, TypeScript, Square-ready API routes, Playwright |
 
 ## GitHub Snapshot
 
