@@ -136,7 +136,7 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="./assets/projects/aliz-studio-booking.png" alt="Aliz Studio appointment booking website preview" width="100%" />
+      <img src="./assets/projects/aliz-studio-home.png" alt="Aliz Studio homepage website preview" width="100%" />
       <h3>Aliz Studio</h3>
       <p>An appointment-only barbershop website with premium visual direction, service packaging, a guided booking flow, mock deposit checkout, and owner dashboard operations.</p>
       <p><strong>Stack:</strong> Next.js App Router, React, TypeScript, custom CSS tokens, Square-ready API routes, signed owner sessions, Playwright checks.</p>
