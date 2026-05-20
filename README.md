@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Syed profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="zohbot profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -25,6 +25,14 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
 - Creating brand systems for Zed Solutions LLC, including logo direction, identity assets, email signature materials, and website presentation
 - Auditing live websites for technology stack, animation patterns, tracking tools, accessibility widgets, and UX behavior
 - Exploring Cinema 4D / Redshift scenes, PBR materials, product-style rendering, and dynamic 3D text concepts
+
+## Latest Project Updates
+
+- **Aliz Studio:** shipped as a Next.js appointment-booking website with service pages, a guided booking flow, Square-ready API routes, and SYHTEK design credit.
+- **TECHNOseller Portal:** polished as a public vendor marketplace concept with searchable listings, buyer lead capture, moderation workflows, and passing Node API tests.
+- **Zohbot Web Resume:** updated with a hardened Vite build configuration, polished footer credit, and customer-facing README notes.
+- **Cloud Website:** refreshed as a buyer-ready static website template with clear tech notes, SYHTEK inquiry paths, and consistent footer credit.
+- **Profile Showcase:** refreshed with the zohbot-only banner, screenshot-backed project cards, public repository table, and Aliz Studio included in the website builds.
 
 ## Toolkit
 
