@@ -111,21 +111,14 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
       <p><strong>Credit:</strong> Website design and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/projects/lahori-tech-modern.png" alt="Lahori Tech modern website preview" width="100%" />
-      <h3>Lahori Tech Modern</h3>
-      <p>A polished business website concept with service pages, light/dark theming, generated service visuals, direct contact paths, and owner-led positioning.</p>
-      <p><strong>Stack:</strong> static JavaScript modules, responsive CSS, self-hosted assets, Playwright smoke checks.</p>
-      <p><strong>Credit:</strong> Site strategy, design, and development by <a href="https://syhtek.com">SYHTEK</a>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <img src="./assets/projects/technoseller-portal.png" alt="TECHNOseller Portal marketplace preview" width="100%" />
       <h3>TECHNOseller Portal</h3>
       <p>A marketplace and vendor-directory SaaS concept with synthetic listings, searchable service data, vendor profiles, buyer lead capture, and moderation workflows.</p>
       <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix primitives, Node HTTP API, structured marketplace data.</p>
       <p><strong>Credit:</strong> Product direction and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="./assets/projects/zohbot-web-resume-latest.png" alt="zohbot web resume preview" width="100%" />
       <h3>Zohbot Web Resume</h3>
@@ -133,9 +126,7 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
       <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix-style components, GitHub Pages publishing direction.</p>
       <p><strong>Credit:</strong> Visual system and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <img src="./assets/projects/aliz-studio-home.png" alt="Aliz Studio homepage website preview" width="100%" />
       <h3>Aliz Studio</h3>
       <p>An appointment-only barbershop website with premium visual direction, service packaging, a guided booking flow, mock deposit checkout, and owner dashboard operations.</p>
@@ -172,13 +163,6 @@ Public repos with buyer-facing README notes, screenshots where useful, and SYHTE
 | [technoseller](https://github.com/zohbot/technoseller) | Vendor marketplace and lead-routing concept | React, Vite, TypeScript, Tailwind CSS, Node API |
 | [webresume](https://github.com/zohbot/webresume) | Modern portfolio/resume website | React, Vite, Tailwind CSS, Radix-style components |
 | [Aliz-Studio](https://github.com/zohbot/Aliz-Studio) | Appointment-based barbershop website, mock checkout, and owner dashboard | Next.js, React, TypeScript, Square-ready API routes, Playwright |
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zohbot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Syed GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohbot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Syed top languages" />
-</p>
 
 ## Skills
 
