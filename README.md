@@ -28,6 +28,7 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
 
 ## Latest Project Updates
 
+- **Masjid Fatima Website Draft:** published as a mosque website and early web-app rebuild with multilingual visitor UX, a staff dashboard foundation, proprietary licensing, and DevSecOps hardening.
 - **Aliz Studio:** upgraded with mock Square-style checkout, paid appointment confirmation, owner auth hardening, security headers, API validation, and a fresh showcase capture.
 - **TECHNOseller Portal:** polished as a public vendor marketplace concept with searchable listings, buyer lead capture, moderation workflows, and passing Node API tests.
 - **Zohbot Web Resume:** updated with a hardened Vite build configuration, polished footer credit, and customer-facing README notes.
@@ -143,6 +144,15 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
       <p><strong>Credit:</strong> Website design, booking UX, and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://raw.githubusercontent.com/zohbot/masjid-fatima-draft/main/public/masjid/fatimah-ai-concept-02-social-card.png" alt="Masjid Fatima website draft social preview" width="100%" />
+      <h3>Masjid Fatima Website Draft</h3>
+      <p>A mosque website and early community web-app rebuild with prayer-time continuity, multilingual visitor paths, donation/media links, a staff dashboard foundation, and a proprietary public-showcase license.</p>
+      <p><strong>Stack:</strong> Plain JavaScript modules, custom CSS, Vite, Node HTTP API, PWA basics, Playwright, local DevSecOps hardening.</p>
+      <p><strong>Credit:</strong> Website draft, logo exploration, app foundation, and DevSecOps pass by <a href="https://syhtek.com">SYHTEK</a>.</p>
+    </td>
+  </tr>
 </table>
 
 ## Other Technical Work
@@ -172,6 +182,7 @@ Public repos with buyer-facing README notes, screenshots where useful, and SYHTE
 | [technoseller](https://github.com/zohbot/technoseller) | Vendor marketplace and lead-routing concept | React, Vite, TypeScript, Tailwind CSS, Node API |
 | [webresume](https://github.com/zohbot/webresume) | Modern portfolio/resume website | React, Vite, Tailwind CSS, Radix-style components |
 | [Aliz-Studio](https://github.com/zohbot/Aliz-Studio) | Appointment-based barbershop website, mock checkout, and owner dashboard | Next.js, React, TypeScript, Square-ready API routes, Playwright |
+| [masjid-fatima-draft](https://github.com/zohbot/masjid-fatima-draft) | Mosque website and early community web-app rebuild | Plain JavaScript, Vite, Node API, PWA, Playwright, DevSecOps hardening |
 
 ## GitHub Snapshot
 
@@ -203,4 +214,4 @@ I like projects that turn rough ideas into something structured and usable: a br
 ## Links
 
 - GitHub: [zohbot](https://github.com/zohbot)
-- Public repos: [Cloud-Website](https://github.com/zohbot/Cloud-Website), [technoseller](https://github.com/zohbot/technoseller), [webresume](https://github.com/zohbot/webresume), [Aliz-Studio](https://github.com/zohbot/Aliz-Studio)
+- Public repos: [Cloud-Website](https://github.com/zohbot/Cloud-Website), [technoseller](https://github.com/zohbot/technoseller), [webresume](https://github.com/zohbot/webresume), [Aliz-Studio](https://github.com/zohbot/Aliz-Studio), [masjid-fatima-draft](https://github.com/zohbot/masjid-fatima-draft)
