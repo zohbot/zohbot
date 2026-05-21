@@ -16,7 +16,7 @@ I build practical web experiences, brand systems, small business tooling, and ha
 
 Right now I am working across front-end development, business website builds, visual QA, DevOps/home lab operations, brand identity systems, and 3D/Cinema 4D material workflows.
 
-For website, template, automation, and customer project inquiries, visit [SYHTEK](https://syhtek.com).
+For website, template, automation, and customer project inquiries, visit [World Softwares](https://worldsoftwares.com).
 
 ## Current Focus
 
@@ -109,14 +109,14 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
       <h3>Zed Solutions LLC</h3>
       <p>A business splash page and brand workspace for a parent company focused on ecommerce, fulfillment support, photography services, IT services, and practical business infrastructure.</p>
       <p><strong>Stack:</strong> React, Vite, custom CSS animation, Cloudflare Pages direction, responsive visual QA.</p>
-      <p><strong>Credit:</strong> Website design and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
+      <p><strong>Credit:</strong> Website design and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/technoseller-portal.png" alt="TECHNOseller Portal marketplace preview" width="100%" />
       <h3>TECHNOseller Portal</h3>
       <p>A marketplace and vendor-directory SaaS concept with synthetic listings, searchable service data, vendor profiles, buyer lead capture, and moderation workflows.</p>
       <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix primitives, Node HTTP API, structured marketplace data.</p>
-      <p><strong>Credit:</strong> Product direction and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
+      <p><strong>Credit:</strong> Product direction and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
     </td>
   </tr>
   <tr>
@@ -125,14 +125,14 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
       <h3>Zohbot Web Resume</h3>
       <p>A clean-room web resume for zohbot.net with a modern React interface, print-friendly resume view, project sections, and contact routes.</p>
       <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix-style components, GitHub Pages publishing direction.</p>
-      <p><strong>Credit:</strong> Visual system and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
+      <p><strong>Credit:</strong> Visual system and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/aliz-studio-home.png" alt="Aliz Studio homepage website preview" width="100%" />
       <h3>Aliz Studio</h3>
       <p>An appointment-only barbershop website with premium visual direction, service packaging, a guided booking flow, mock deposit checkout, and owner dashboard operations.</p>
       <p><strong>Stack:</strong> Next.js App Router, React, TypeScript, custom CSS tokens, Square-ready API routes, signed owner sessions, Playwright checks.</p>
-      <p><strong>Credit:</strong> Website design, booking UX, and implementation by <a href="https://syhtek.com">SYHTEK</a>.</p>
+      <p><strong>Credit:</strong> Website design, booking UX, and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
       <h3>Masjid Fatima Website Draft</h3>
       <p>A mosque website and early community web-app rebuild with prayer-time continuity, multilingual visitor paths, donation/media links, a staff dashboard foundation, and a proprietary public-showcase license.</p>
       <p><strong>Stack:</strong> Plain JavaScript modules, custom CSS, Vite, Node HTTP API, PWA basics, Playwright, local DevSecOps hardening.</p>
-      <p><strong>Credit:</strong> Website draft, logo exploration, app foundation, and DevSecOps pass by <a href="https://syhtek.com">SYHTEK</a>.</p>
+      <p><strong>Credit:</strong> Website draft, logo exploration, app foundation, and DevSecOps pass by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
     </td>
   </tr>
 </table>
@@ -163,17 +163,17 @@ For website, template, automation, and customer project inquiries, visit [SYHTEK
   </tr>
 </table>
 
-## Public Website Repositories
+## Public Website Project Links
 
-Public repos with buyer-facing README notes, screenshots where useful, and SYHTEK inquiry/credit positioning.
+Public project entries with buyer-facing notes, screenshots where useful, and World Softwares inquiry routing.
 
 | Repository | What It Shows | Tech |
 | --- | --- | --- |
-| [Cloud-Website](https://github.com/zohbot/Cloud-Website) | Static cloud-hosting website template | HTML, CSS, responsive static pages |
-| [technoseller](https://github.com/zohbot/technoseller) | Vendor marketplace and lead-routing concept | React, Vite, TypeScript, Tailwind CSS, Node API |
-| [webresume](https://github.com/zohbot/webresume) | Modern portfolio/resume website | React, Vite, Tailwind CSS, Radix-style components |
-| [Aliz-Studio](https://github.com/zohbot/Aliz-Studio) | Appointment-based barbershop website, mock checkout, and owner dashboard | Next.js, React, TypeScript, Square-ready API routes, Playwright |
-| [masjid-fatima-draft](https://github.com/zohbot/masjid-fatima-draft) | Mosque website and early community web-app rebuild | Plain JavaScript, Vite, Node API, PWA, Playwright, DevSecOps hardening |
+| [Cloud-Website](https://worldsoftwares.com) | Static cloud-hosting website template | HTML, CSS, responsive static pages |
+| [technoseller](https://worldsoftwares.com) | Vendor marketplace and lead-routing concept | React, Vite, TypeScript, Tailwind CSS, Node API |
+| [webresume](https://worldsoftwares.com) | Modern portfolio/resume website | React, Vite, Tailwind CSS, Radix-style components |
+| [Aliz-Studio](https://worldsoftwares.com) | Appointment-based barbershop website, mock checkout, and owner dashboard | Next.js, React, TypeScript, Square-ready API routes, Playwright |
+| [masjid-fatima-draft](https://worldsoftwares.com) | Mosque website and early community web-app rebuild | Plain JavaScript, Vite, Node API, PWA, Playwright, DevSecOps hardening |
 
 ## Skills
 
@@ -198,4 +198,5 @@ I like projects that turn rough ideas into something structured and usable: a br
 ## Links
 
 - GitHub: [zohbot](https://github.com/zohbot)
-- Public repos: [Cloud-Website](https://github.com/zohbot/Cloud-Website), [technoseller](https://github.com/zohbot/technoseller), [webresume](https://github.com/zohbot/webresume), [Aliz-Studio](https://github.com/zohbot/Aliz-Studio), [masjid-fatima-draft](https://github.com/zohbot/masjid-fatima-draft)
+- Website inquiries: [World Softwares](https://worldsoftwares.com)
+- Public project links: [Cloud-Website](https://worldsoftwares.com), [technoseller](https://worldsoftwares.com), [webresume](https://worldsoftwares.com), [Aliz-Studio](https://worldsoftwares.com), [masjid-fatima-draft](https://worldsoftwares.com)
