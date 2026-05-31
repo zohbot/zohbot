@@ -21,6 +21,7 @@ For website builds, templates, automation, or customer work, visit [World Softwa
 ## What I'm Working On
 
 - Building small business websites and product concepts that can be shown, tested, and handed off cleanly
+- Shaping restaurant and local-business demo apps with menu browsing, mock checkout flows, install guidance, and owner-facing sales screens
 - Running a home lab with Raspberry Pi services, Docker, Portainer, Grafana, Node Exporter, Tailscale, and encrypted DNS
 - Staging a Raspberry Pi 5 before replacing a production Raspberry Pi 3B, with monitoring and rollback thinking baked in
 - Turning older design/graphics work into cleaner modern web showcases
@@ -28,12 +29,13 @@ For website builds, templates, automation, or customer work, visit [World Softwa
 
 ## Recent Updates
 
+- **Best Wings N Pies:** a restaurant ordering MVP demo with menu customization, cart review, mock checkout pricing, admin-demo state, public demo QA, and clear no-real-payment guardrails.
+- **Harbor Halal Platters:** a fictional halal platter storefront demo with QR menu launch, platter customization, local favorites/reorder, checkout preview, install guidance, and static owner-preview screens.
+- **CF Auto Care Admin Foundation:** a private auto-service operations build with admin dashboard work, intake, customer/vehicle records, service records, oil-change tracking, and invoice surfaces.
 - **Masjid Fatima Website Draft:** a mosque website rebuild concept with multilingual visitor paths, prayer-time continuity, donation/media links, and a staff dashboard foundation.
 - **Aliz Studio:** an appointment-based barbershop site with a premium homepage, service packaging, booking flow, mock deposit checkout, and owner dashboard work.
 - **TECHNOseller Portal:** a vendor marketplace concept with searchable listings, vendor profiles, buyer lead capture, and moderation workflows.
-- **Zohbot Web Resume:** a cleaner web resume and portfolio build with project sections, responsive pages, and GitHub Pages direction.
-- **Cloud Website:** a static business website template refreshed with clearer positioning, tech notes, and consistent footer credit.
-- **Profile Showcase:** updated with a custom banner, current screenshots, project cards, and World Softwares inquiry links.
+- **Cloud Website and Web Resume:** older front-end foundations refreshed with screenshot-backed presentation and World Softwares inquiry routing.
 
 ## Toolkit
 
@@ -105,11 +107,27 @@ For website builds, templates, automation, or customer work, visit [World Softwa
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/projects/zed-solutions-llc.png" alt="Zed Solutions LLC website preview" width="100%" />
-      <h3>Zed Solutions LLC</h3>
-      <p>A business splash page and brand workspace for a parent company covering ecommerce, fulfillment support, photography, IT services, and practical business infrastructure.</p>
-      <p><strong>Stack:</strong> React, Vite, custom CSS animation, Cloudflare Pages direction, responsive visual QA.</p>
-      <p><strong>Credit:</strong> Website design and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
+      <img src="./assets/projects/bestwingsnpies-demo.png" alt="Best Wings N Pies restaurant ordering demo preview" width="100%" />
+      <h3>Best Wings N Pies</h3>
+      <p>A local-first restaurant ordering MVP demo with menu customization, cart review, mock checkout pricing, admin-demo state, and public-demo QA.</p>
+      <p><strong>Stack:</strong> Next.js App Router, TypeScript, Tailwind CSS, local demo cart state, Node tests, Playwright QA.</p>
+      <p><strong>Credit:</strong> Website demo, ordering UX, and public presentation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/harbor-halal-platters.png" alt="Harbor Halal Platters storefront demo preview" width="100%" />
+      <h3>Harbor Halal Platters</h3>
+      <p>A fictional halal platter storefront demo for owner conversations, with QR menu launch, platter customization, local favorites, checkout preview, and install guidance.</p>
+      <p><strong>Stack:</strong> Next.js App Router, TypeScript, Tailwind CSS, qrcode, Vitest, Playwright, axe accessibility checks.</p>
+      <p><strong>Credit:</strong> Demo storefront, brand system, and sales-demo flow by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/aliz-studio-home.png" alt="Aliz Studio homepage website preview" width="100%" />
+      <h3>Aliz Studio</h3>
+      <p>An appointment-only barbershop website with a premium homepage, clear service packaging, guided booking, mock deposit checkout, and owner dashboard work.</p>
+      <p><strong>Stack:</strong> Next.js App Router, React, TypeScript, custom CSS tokens, Square-ready API routes, signed owner sessions, Playwright checks.</p>
+      <p><strong>Credit:</strong> Website design, booking UX, and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/technoseller-portal.png" alt="TECHNOseller Portal marketplace preview" width="100%" />
@@ -121,27 +139,43 @@ For website builds, templates, automation, or customer work, visit [World Softwa
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="./assets/projects/masjid-fatima-draft.png" alt="Masjid Fatima website draft homepage preview" width="100%" />
+      <h3>Masjid Fatima Website Draft</h3>
+      <p>A mosque website and early community web-app concept with prayer-time continuity, multilingual visitor paths, donation/media links, and a staff dashboard foundation.</p>
+      <p><strong>Stack:</strong> Plain JavaScript modules, custom CSS, Vite, Node HTTP API, PWA basics, Playwright, local security review.</p>
+      <p><strong>Credit:</strong> Website draft, logo exploration, app foundation, and security review by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/cfautocare-admin.png" alt="CF Auto Care admin dashboard preview" width="100%" />
+      <h3>CF Auto Care Admin Foundation</h3>
+      <p>A private shop-operations foundation with dashboard cards, appointment intake, customer and vehicle records, service records, oil-change tracking, and invoice screens.</p>
+      <p><strong>Stack:</strong> Next.js App Router, TypeScript, Prisma, PostgreSQL/Supabase-ready schema, server actions, Playwright visual QA.</p>
+      <p><strong>Credit:</strong> Admin UX, data model direction, and staging documentation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/zed-solutions-llc.png" alt="Zed Solutions LLC website preview" width="100%" />
+      <h3>Zed Solutions LLC</h3>
+      <p>A business splash page and brand workspace for a parent company covering ecommerce, fulfillment support, photography, IT services, and practical business infrastructure.</p>
+      <p><strong>Stack:</strong> React, Vite, custom CSS animation, Cloudflare Pages direction, responsive visual QA.</p>
+      <p><strong>Credit:</strong> Website design and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/cloud-website.png" alt="Cloud Website template preview" width="100%" />
+      <h3>Cloud Website</h3>
+      <p>A static cloud-hosting website template with homepage, feature, documentation, contact, and responsive layout surfaces.</p>
+      <p><strong>Stack:</strong> HTML, CSS, responsive layout utilities, static hosting direction, simple form markup.</p>
+      <p><strong>Credit:</strong> Template cleanup and presentation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <img src="./assets/projects/zohbot-web-resume-latest.png" alt="zohbot web resume preview" width="100%" />
       <h3>Zohbot Web Resume</h3>
       <p>A modern web resume for zohbot.net with a React interface, print-friendly resume view, project sections, and contact routes.</p>
       <p><strong>Stack:</strong> React, Vite, Tailwind CSS, Radix-style components, GitHub Pages publishing direction.</p>
       <p><strong>Credit:</strong> Visual system and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/projects/aliz-studio-home.png" alt="Aliz Studio homepage website preview" width="100%" />
-      <h3>Aliz Studio</h3>
-      <p>An appointment-only barbershop website with a premium homepage, clear service packaging, guided booking, mock deposit checkout, and owner dashboard work.</p>
-      <p><strong>Stack:</strong> Next.js App Router, React, TypeScript, custom CSS tokens, Square-ready API routes, signed owner sessions, Playwright checks.</p>
-      <p><strong>Credit:</strong> Website design, booking UX, and implementation by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <img src="https://raw.githubusercontent.com/zohbot/masjid-fatima-draft/main/public/masjid/fatimah-ai-concept-02-social-card.png" alt="Masjid Fatima website draft social preview" width="100%" />
-      <h3>Masjid Fatima Website Draft</h3>
-      <p>A mosque website and early community web-app concept with prayer-time continuity, multilingual visitor paths, donation/media links, and a staff dashboard foundation.</p>
-      <p><strong>Stack:</strong> Plain JavaScript modules, custom CSS, Vite, Node HTTP API, PWA basics, Playwright, local security review.</p>
-      <p><strong>Credit:</strong> Website draft, logo exploration, app foundation, and security review by <a href="https://worldsoftwares.com">SYHTEK</a>.</p>
     </td>
   </tr>
 </table>
@@ -163,13 +197,17 @@ For website builds, templates, automation, or customer work, visit [World Softwa
   </tr>
 </table>
 
-## Public Website Project Links
+## Showcase Project Links
 
 Selected website and product concept work. Project links route through World Softwares for inquiries.
 
 | Project | What It Shows | Tech |
 | --- | --- | --- |
+| [Best Wings N Pies](https://worldsoftwares.com) | Restaurant ordering MVP demo with menu customization and mock checkout | Next.js, TypeScript, Tailwind CSS, Playwright |
+| [Harbor Halal Platters](https://worldsoftwares.com) | Fictional halal platter storefront and sales-demo flow | Next.js, TypeScript, Tailwind CSS, Vitest, Playwright |
+| [CF Auto Care Admin Foundation](https://worldsoftwares.com) | Private shop-operations dashboard and admin workflow foundation | Next.js, Prisma, TypeScript, Playwright |
 | [Cloud-Website](https://worldsoftwares.com) | Static cloud-hosting website template | HTML, CSS, responsive static pages |
+| [Zed Solutions LLC](https://worldsoftwares.com) | Parent-company brand and business splash page | React, Vite, custom CSS |
 | [technoseller](https://worldsoftwares.com) | Vendor marketplace and lead-routing concept | React, Vite, TypeScript, Tailwind CSS, Node API |
 | [webresume](https://worldsoftwares.com) | Modern portfolio/resume website | React, Vite, Tailwind CSS, Radix-style components |
 | [Aliz-Studio](https://worldsoftwares.com) | Appointment-based barbershop website, mock checkout, and owner dashboard | Next.js, React, TypeScript, Square-ready API routes, Playwright |
@@ -199,4 +237,4 @@ I like taking rough ideas and turning them into something people can actually us
 
 - GitHub: [zohbot](https://github.com/zohbot)
 - Website inquiries: [World Softwares](https://worldsoftwares.com)
-- Public project links: [Cloud-Website](https://worldsoftwares.com), [technoseller](https://worldsoftwares.com), [webresume](https://worldsoftwares.com), [Aliz-Studio](https://worldsoftwares.com), [masjid-fatima-draft](https://worldsoftwares.com)
+- Project inquiries: [Best Wings N Pies](https://worldsoftwares.com), [Harbor Halal Platters](https://worldsoftwares.com), [CF Auto Care](https://worldsoftwares.com), [Cloud-Website](https://worldsoftwares.com), [Zed Solutions LLC](https://worldsoftwares.com), [technoseller](https://worldsoftwares.com), [webresume](https://worldsoftwares.com), [Aliz-Studio](https://worldsoftwares.com), [masjid-fatima-draft](https://worldsoftwares.com)
