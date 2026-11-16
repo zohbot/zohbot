@@ -29,7 +29,7 @@ For website builds, templates, automation, or customer work, visit [World Softwa
 
 ## Recent Updates
 
-- **Home Pi Infrastructure:** expanded the Pi 5 into a multi-stack homelab with a mobile-friendly service portal, authenticated administration, media delivery, RomM, encrypted recovery, and daily health reporting. AIOStreams now runs on ElfHosted independently of the Pi.
+- **Home Pi Infrastructure:** expanded the Pi 5 into a multi-stack homelab with a mobile-friendly service portal, authenticated administration, self-hosted AIOStreams for Stremio, media delivery, RomM, encrypted recovery, and daily health reporting.
 - **Best Wings N Pies:** a restaurant ordering MVP demo with menu customization, cart review, mock checkout pricing, admin-demo state, public demo QA, and clear no-real-payment guardrails.
 - **Harbor Halal Platters:** a fictional halal platter storefront demo with QR menu launch, platter customization, local favorites/reorder, checkout preview, install guidance, and static owner-preview screens.
 - **CF Auto Care Admin Foundation:** a private auto-service operations build with admin dashboard work, intake, customer/vehicle records, service records, oil-change tracking, and invoice surfaces.
@@ -122,7 +122,7 @@ Built and operated a Raspberry Pi 5 homelab that has supported 20 containers acr
   </tr>
 </table>
 
-AIOStreams was originally self-hosted through a Cloudflare Tunnel and has since moved to a managed ElfHosted instance, keeping Stremio available independently of the home server. OpenClaw is part of the lab's agent tooling; maintenance permissions remain explicitly controlled.
+Self-hosted AIOStreams on the Pi using Docker Compose and a Cloudflare Tunnel for remote HTTPS access from Stremio. Integrated add-on aggregation, catalogues, provider accounts, and stream filtering, with monitoring that distinguishes application and tunnel failures from upstream provider errors. OpenClaw is part of the lab's agent tooling; maintenance permissions remain explicitly controlled.
 
 ## Website Builds and Product Concepts
 
